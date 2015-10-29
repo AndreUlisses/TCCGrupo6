@@ -62,6 +62,7 @@ public class UsuarioDao {
         return resultado;
     }
 
+    
     public boolean excluir(Usuario usuario) {
 
         boolean resultado = false;

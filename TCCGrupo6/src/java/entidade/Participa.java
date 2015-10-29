@@ -1,13 +1,23 @@
 package entidade;
 
 public class Participa {
-    private String td_Ingresso; 
+    private Integer id;
+    private String dt_Ingresso; 
 
-    public String getTd_Ingresso() {
-        return td_Ingresso;
+    public Integer getId() {
+        return id;
     }
 
-    public void setTd_Ingresso(String td_Ingresso) {
-        this.td_Ingresso = td_Ingresso;
+    public void setId(Integer id) {
+        this.id = id;
+    }
+
+
+    public String getDt_Ingresso() {
+        return dt_Ingresso;
+    }
+
+    public void setDt_Ingresso(String dt_Ingresso) {
+        this.dt_Ingresso = dt_Ingresso;
     }
 }
