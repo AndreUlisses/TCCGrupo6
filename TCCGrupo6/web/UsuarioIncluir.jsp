@@ -2,7 +2,7 @@
 <html lang="pt-br">
     <head>
         <meta charset="utf-8">
-        <title>Nome do Projeto</title>
+        <title>Counter Tatics</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
@@ -39,7 +39,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </a>
-                    <a class="brand" href="#">Nome do Projeto</a>
+                    <a class="brand" href="#">Counter Tatics</a>
                     <div class="nav-collapse collapse">
                         <ul class="nav">
                             <li class="active"><a href="index.html">Principal</a></li>
