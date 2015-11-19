@@ -32,9 +32,7 @@ public class UsuarioFacade {
         return retorno;
     }
 
-    ;    
-    
-    public void incluir(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+     public void incluir(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         RequestDispatcher rd = request.getRequestDispatcher("UsuarioIncluir.jsp");
         rd.forward(request, response);
     }
